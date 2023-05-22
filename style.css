@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: darkmagenta;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dotted white;
+  width: 350px;
+  height: 350px; 
+}
+
+.gesture_icon
+{
+  font-size:48px;
+}
+
+label
+{
+  font-size: 14px;
+  color: darkmagenta;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+h1{
+    background-color: lightpink;
+    border-radius: 10px;
+    width: 70%;
+}
+button{
+    background-color: lightpink;
+    border-color: lightpink;
+    border-radius: 9px;
+}
